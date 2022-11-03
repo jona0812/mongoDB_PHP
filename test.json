@@ -1,0 +1,15 @@
+[{
+  "_id": "805",
+  "NOMBRE_PRODUCTO": "Televisor",
+  "PROVEEDOR": "samsung",
+  "CATEGORIA": "tecnologia",
+  "UNIDADES_EXISTENTES": "10",
+  "SUSPENDIDO": "false"
+},{
+  "_id": "700",
+  "NOMBRE_PRODUCTO": "YOGOURT",
+  "PROVEEDOR": "COLANTA",
+  "CATEGORIA": "DAIRY",
+  "UNIDADES_EXISTENTES": "1",
+  "SUSPENDIDO": "true"
+}]
